@@ -5,3 +5,7 @@ Short, meaningful message
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+- [ ] Sample Checklist
+- [ ] Sample CheckList 2
+- [ ] Sample Checklist 3
